@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">闹铃修改</string>
+    <string name="now_ringtone_name">当前闹钟铃声：</string>
+    <string name="change_ringtone">修改闹钟铃声</string>
+    <string name="select_ringtone">选择铃声</string>
+    <string name="change_ringtone_must_get_permission">修改闹钟铃声需要获得“修改系统设置”的权限</string>
+    <string name="give_change_system_setttings_permission_first">请先手动授予“修改系统设置”的权限！</string>
+    <string name="custom_ringtone">自定义铃声？</string>
+    <string name="ringtone_name_must_get_permission">\n\u3000\u3000获取自定义铃声的名称需要获得“访问音频文件”的权限，请在点击 确定 按钮后授权。</string>
+    <string name="ringtone_name_must_get_permission_manual_authorization">\n\u3000\u3000获取自定义铃声的名称需要获得“访问音频文件”的权限。\n\u3000\u3000请在点击 确定 按钮跳转到应用详情界面后，点击 权限管理->音频文件，手动授予权限。\n</string>
+</resources>

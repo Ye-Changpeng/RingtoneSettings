@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_green">#2F4F4F</color>
+    <color name="green">#6b9080</color>
+    <color name="light_green">#a4c3b2</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- light theme -->
+    <color name="light_background">#f6fff8</color>
+
+    <!-- dark theme -->
+    <color name="dark_background">#0d0d0d</color>
+    <color name="dark_title">#242424</color>
+    <color name="color_in_dark">#CFCFCF</color>
+
+</resources>

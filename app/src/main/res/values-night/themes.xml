@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.RingtoneSettings" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/green</item>
+        <item name="colorPrimaryVariant">@color/light_green</item>
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/dark_title</item>
+        <!-- Customize your theme here. -->
+        <item name="android:background">@color/dark_background</item>
+        <item name="android:textColor">@color/color_in_dark</item>
+        <item name="android:colorButtonNormal">@color/dark_green</item>
+    </style>
+</resources>

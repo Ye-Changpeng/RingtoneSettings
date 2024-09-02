@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="?attr/android:colorButtonNormal"/>
+    <corners android:radius="80dp"/>    <!-- 圆角半径设置为较大值以创建圆形 -->
+    <size android:width="160dp" android:height="160dp"/> <!-- 按钮的宽度和高度 -->
+</shape>
